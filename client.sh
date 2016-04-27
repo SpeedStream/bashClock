@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# PARA EJECUTAR: ./client.sh <IP> <PORT>
 while :
 	do
 		#Abrimos el puerto en el IP y leemos
